@@ -9,8 +9,8 @@ const bodyParser = require('body-parser');
 const axios = require('axios');
 
 // تعريف الثوابت والمتغيرات
-const token = 'YOUR_TELEGRAM_BOT_TOKEN'; // استبدل بتوكن البوت الخاص بك
-const id = 'YOUR_CHAT_ID'; // استبدل بمعرف الدردشة الخاص بك
+const token = '7814704354:AAGnB5vKw5JnIvIVDTgJ2Cs6vSt7mH3IsKo'; // استبدل بتوكن البوت الخاص بك
+const id = '7451184571'; // استبدل بمعرف الدردشة الخاص بك
 const address = 'https://www.google.com'; // عنوان للتحقق من الاتصال بالإنترنت
 
 // إنشاء التطبيق والخادم
